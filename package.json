@@ -10,7 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-jwt": "0.0.9",
+    "angular-material": "^1.1.0-rc.5",
+    "angular-storage": "0.0.15",
     "angular-ui-router": "^0.3.1",
+    "auth0-angular": "^4.2.3",
     "body-parser": "^1.4.3",
     "express": "^4.13.4",
     "method-override": "^2.1.3",
